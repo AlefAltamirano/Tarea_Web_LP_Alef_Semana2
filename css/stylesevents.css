@@ -50,7 +50,7 @@ nav ul li a:hover{
 }
 .baner-principal {
     font-family: "Montserrat", sans-serif;
-    background-image: url("/img/join.jpeg");
+    background-image: url("../img/join.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

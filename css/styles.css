@@ -50,7 +50,7 @@ nav ul li a:hover{
 }
 .baner-principal {
     font-family: "Montserrat", sans-serif;
-    background-image: url("/img/unnamed.jpg");
+    background-image: url("../img/unnamed.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -144,7 +144,7 @@ nav ul li a:hover{
 }
 .invitacion-1{
     font-family: "Montserrat", sans-serif;
-    background-image: url("/img/inviitacion.jpg");
+    background-image: url("../img/inviitacion.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
